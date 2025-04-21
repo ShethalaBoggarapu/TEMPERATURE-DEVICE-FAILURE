@@ -1,4 +1,4 @@
-# MNIST Notebook Project
+# TEMPERATURE-DEVICE-FAILURE Project
 
 ## Description
 This project includes a Jupyter Notebook that processes the Temperature Device Failure dataset for machine learning purposes.
